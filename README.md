@@ -1,0 +1,1 @@
+# Application-of-Needleman-Wunsch-Algorithm-in-Image-Comparison
